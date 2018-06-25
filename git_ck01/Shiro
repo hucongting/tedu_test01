@@ -1,0 +1,6 @@
+Shiro --> Spring
+1.peizhi Spring
+2.peizhi shiro:
+	1.web.xml--> shiroFilter 
+	2.spring.xml-->peizhi shiro
+		1.peizhi SercuityManager
